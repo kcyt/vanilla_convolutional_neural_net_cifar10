@@ -1,0 +1,1 @@
+# vanilla_convolutional_neural_net_cifar10
